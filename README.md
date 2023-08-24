@@ -2,4 +2,4 @@
 - 👀 I’m interested in GIS Programer
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on QGis and ArcGis
-- 📫 How to reach me fersiones@gmailcom or +54 9 3764 876748
+- 📫 How to reach me fersiones@gmail.com or +54 9 3764 876748
